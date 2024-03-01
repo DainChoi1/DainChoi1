@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요 QA 최다인 입니다👋
+
+## 5minlab SmashLegends 팀에서 근무중 입니다.
+- 📫 email : dain8135@naver.com
+- 😄 게임과 운동을 좋아해요 
 
 <!--
 **DainChoi1/DainChoi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
